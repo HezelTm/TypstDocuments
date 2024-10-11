@@ -1,2 +1,2 @@
-# TypstTemplates
-Repository to store all Typst templates
+# TypstDocuments
+Repository to store all Typst Documents
